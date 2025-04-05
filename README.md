@@ -1,5 +1,4 @@
-# Market
-Mix Modeling
+# Market Mix Modeling
 
 ## 📊 Overview
 
